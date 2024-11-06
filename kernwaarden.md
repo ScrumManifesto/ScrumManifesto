@@ -1,4 +1,4 @@
-Individuen en interacties boven processen en tools
+## Individuen en interacties boven processen en tools
 
 **Actieve betrokkenheid:** Zorg ervoor dat elke laag van de organisatie betrokken is bij het creëren van waarde en dat samenwerking niet beperkt blijft tot formele vergaderingen.
 **Transparante communicatie:** Stimuleer informele communicatie en het delen van feedback tussen teams en stakeholders. Vermijd overmatige afhankelijkheid van tools door bijvoorbeeld regelmatige check-ins, spontane gesprekken, en virtuele of fysieke workshops.
