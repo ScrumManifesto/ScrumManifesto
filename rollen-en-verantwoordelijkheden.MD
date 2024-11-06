@@ -1,16 +1,15 @@
 1. Business Owner
 - Verantwoordelijkheden:
-
--- Bepalen van de strategische richting en visie van het product of project vanuit de zakelijke behoeften.
--- Actieve deelname aan PI (Program Increment) Planning om doelen en prioriteiten te stellen.
--- Goedkeuren en beoordelen van Epics en initiatieven die waarde toevoegen voor de organisatie.
--- Bewaken van zakelijke doelen en resultaten, en ervoor zorgen dat deze in lijn zijn met de organisatiedoelen.
--- Onderhouden van contact met de Product Manager en andere stakeholders om afstemming en draagvlak te behouden.
+ - Bepalen van de strategische richting en visie van het product of project vanuit de zakelijke behoeften.
+ - Actieve deelname aan PI (Program Increment) Planning om doelen en prioriteiten te stellen.
+ - Goedkeuren en beoordelen van Epics en initiatieven die waarde toevoegen voor de organisatie.
+ - Bewaken van zakelijke doelen en resultaten, en ervoor zorgen dat deze in lijn zijn met de organisatiedoelen.
+ - Onderhouden van contact met de Product Manager en andere stakeholders om afstemming en draagvlak te behouden.
 
 - Niet verantwoordelijk voor:
--- Micromanagement van teams of betrokken zijn bij dagelijkse taken.
--- Het geven van directe instructies over technische oplossingen of implementaties.
--- Het opstellen of bijwerken van user stories en backlog items; dit is voor de Product Owner.
+ - Micromanagement van teams of betrokken zijn bij dagelijkse taken.
+ - Het geven van directe instructies over technische oplossingen of implementaties.
+ - Het opstellen of bijwerken van user stories en backlog items; dit is voor de Product Owner.
 
 2. Epic Owner
 - Verantwoordelijkheden:
