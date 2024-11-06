@@ -18,9 +18,9 @@ Documentatie als ondersteuning, niet als doel: Creëer alleen documentatie die d
 
 ## Reageren op verandering boven het volgen van een plan
 
-**Focus op iteratieve planning:** Werk met korte iteraties en laat ruimte voor wijzigingen in de planning op basis van de resultaten van vorige iteraties. Gebruik PI-planningen als richtlijn, maar wees bereid om aanpassingen door te voeren.
-**Gebruik empirische gegevens: **Baseer wijzigingen op data en feedback uit eerdere sprints en PI’s. Hierdoor kunnen teams hun planning en aanpak continu verbeteren en aanpassen aan veranderende behoeften.
-**Adaptieve roadmap:** Zorg dat de roadmap flexibel is en aangepast kan worden op basis van leerervaringen en veranderende marktomstandigheden. Gebruik experimenten om snel te leren wat werkt en waar aanpassingen nodig zijn.
+- **Focus op iteratieve planning:** Werk met korte iteraties en laat ruimte voor wijzigingen in de planning op basis van de resultaten van vorige iteraties. Gebruik PI-planningen als richtlijn, maar wees bereid om aanpassingen door te voeren.
+- **Gebruik empirische gegevens: **Baseer wijzigingen op data en feedback uit eerdere sprints en PI’s. Hierdoor kunnen teams hun planning en aanpak continu verbeteren en aanpassen aan veranderende behoeften.
+- **Adaptieve roadmap:** Zorg dat de roadmap flexibel is en aangepast kan worden op basis van leerervaringen en veranderende marktomstandigheden. Gebruik experimenten om snel te leren wat werkt en waar aanpassingen nodig zijn.
 
 ## Minimaliseer bureaucratie en overmatige ceremonies
 
