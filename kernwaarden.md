@@ -12,7 +12,7 @@
 
 ## Samenwerking met de klant boven contractonderhandelingen
 
-- **Actieve klantbetrokkenheid: ** Plan regelmatige demos en evaluatiesessies waar klanten en gebruikers betrokken zijn om feedback te geven, zelfs als ze geen formele stakeholders zijn.
+- **Actieve klantbetrokkenheid:** Plan regelmatige demos en evaluatiesessies waar klanten en gebruikers betrokken zijn om feedback te geven, zelfs als ze geen formele stakeholders zijn.
 - **Responsieve backlog:** Zorg dat de backlog flexibel blijft en aanpasbaar is op basis van feedback van klanten. De Product Owners en Product Managers moeten nauw samenwerken met klanten om de prioriteiten te herzien.
 - **Stakeholders in de PI-planning:** Betrek klanten of klantvertegenwoordigers direct bij de PI-planningssessies om gezamenlijk doelen te stellen en verwachtingen af te stemmen.
 
