@@ -1,15 +1,15 @@
 1. Business Owner
 - Verantwoordelijkheden:
- - Bepalen van de strategische richting en visie van het product of project vanuit de zakelijke behoeften.
- - Actieve deelname aan PI (Program Increment) Planning om doelen en prioriteiten te stellen.
- - Goedkeuren en beoordelen van Epics en initiatieven die waarde toevoegen voor de organisatie.
- - Bewaken van zakelijke doelen en resultaten, en ervoor zorgen dat deze in lijn zijn met de organisatiedoelen.
- - Onderhouden van contact met de Product Manager en andere stakeholders om afstemming en draagvlak te behouden.
+Bepalen van de strategische richting en visie van het product of project vanuit de zakelijke behoeften.
+Actieve deelname aan PI (Program Increment) Planning om doelen en prioriteiten te stellen.
+Goedkeuren en beoordelen van Epics en initiatieven die waarde toevoegen voor de organisatie.
+Bewaken van zakelijke doelen en resultaten, en ervoor zorgen dat deze in lijn zijn met de organisatiedoelen.
+Onderhouden van contact met de Product Manager en andere stakeholders om afstemming en draagvlak te behouden.
 
 - Niet verantwoordelijk voor:
- - Micromanagement van teams of betrokken zijn bij dagelijkse taken.
- - Het geven van directe instructies over technische oplossingen of implementaties.
- - Het opstellen of bijwerken van user stories en backlog items; dit is voor de Product Owner.
+Micromanagement van teams of betrokken zijn bij dagelijkse taken.
+Het geven van directe instructies over technische oplossingen of implementaties.
+Het opstellen of bijwerken van user stories en backlog items; dit is voor de Product Owner.
 
 2. Epic Owner
 - Verantwoordelijkheden:
@@ -21,6 +21,7 @@ Opstellen van business cases voor Epics en deze presenteren aan de Business Owne
 Directe uitvoering of dagelijkse opvolging van user stories binnen de Epics.
 Gedetailleerde technische oplossingen bepalen; de focus ligt op het hogere niveau en waarde voor de organisatie.
 Dagelijks samenwerken met het ontwikkelteam, wat bij de Product Owner hoort.
+
 3. Product Owner (PO)
 - Verantwoordelijkheden:
 Creëren en onderhouden van de product backlog en deze voortdurend prioriteren.
@@ -32,6 +33,7 @@ Reviewen van het geleverde werk aan het einde van de sprint om te zorgen dat het
 Bepalen van de technische details en oplossingen; dit wordt gedaan door het DevOps-team of Architect.
 Lange termijn productstrategie; dit is de verantwoordelijkheid van de Product Manager.
 Direct aansturen van teamleden of managen van hun dagelijkse taken.
+
 4. Product Manager (PM)
 - Verantwoordelijkheden:
 Vaststellen van de productstrategie, roadmap en visie in samenwerking met de Business Owners.
@@ -43,6 +45,7 @@ Zorgen dat de Product Owners en teams werken aan de juiste prioriteiten.
 Gedetailleerd beheer van user stories en dag-tot-dag werkzaamheden met het team.
 Direct contact met het ontwikkelteam voor dagelijkse updates; de Product Owner fungeert hier als tussenpersoon.
 Specifieke technische keuzes of oplossingen bedenken; dat ligt bij Architecten en DevOps-teams.
+
 5. DevOps Team
 - Verantwoordelijkheden:
 Ontwikkelen, testen, en operationeel maken van software binnen een continu integratie- en releaseproces.
@@ -54,6 +57,7 @@ Onderhouden van CI/CD-pijplijnen en tools om het releaseproces te versnellen.
 Strategische productbeslissingen nemen of zakelijke prioriteiten stellen.
 Directe communicatie met eindgebruikers voor feedback (meestal doet de Product Owner dit).
 Gedetailleerde backlog-prioritering, die verantwoordelijkheid ligt bij de Product Owner.
+
 6. Team Lead
 - Verantwoordelijkheden:
 Begeleiden van het team bij het behalen van hun doelen en het stimuleren van samenwerking.
@@ -65,6 +69,7 @@ Werken aan de teamefficiëntie en helpen bij het oplossen van conflicten of misv
 Het uitvoeren van de Scrum Master-rol, zoals faciliteren van ceremonies en procesverbetering.
 Prioritering van de backlog of gedetailleerd werk; dit ligt bij de Product Owner.
 Lange termijn product- of businessstrategieën bepalen.
+
 7. Architect
 - Verantwoordelijkheden:
 Ontwerpen en onderhouden van de technische architectuur en waarborgen van consistente technische standaarden.
@@ -76,6 +81,7 @@ Voeren van technische reviews om ervoor te zorgen dat code en systemen voldoen a
 Dagelijks technisch werk zoals coderen of testen, tenzij in een hands-on rol.
 Direct beheer van de product-backlog of user stories.
 Directe leiding geven aan teamleden.
+
 8. Manager
 - Verantwoordelijkheden:
 Ondersteunen van een cultuur van continue verbetering en groei binnen de teams.
@@ -87,6 +93,7 @@ Ondersteunen bij het oplossen van organisatorische blokkades en het creëren van
 Direct prioriteren van backlog items; dit ligt bij de Product Owner.
 Dagelijkse operationele beslissingen of technische keuzes, die bij het team zelf liggen.
 Micromanagement van het ontwikkelteam.
+
 9. Release Train Engineer (RTE)
 - Verantwoordelijkheden:
 Faciliteren van PI Planning en andere belangrijke ART-evenementen.
@@ -98,6 +105,7 @@ Ondersteunen van procesverbetering binnen de ART om efficiëntie te verhogen.
 Micromanagement van individuele teamleden; dit is de rol van de team leads en managers.
 Dagelijkse backlog-prioriteiten, die bij de Product Owner en Product Manager liggen.
 Gedetailleerde technische beslissingen, die binnen de teams worden genomen.
+
 10. Scrum Master
 - Verantwoordelijkheden:
 Faciliteren van Scrum-evenementen zoals stand-ups, sprint planning, en retrospectives.
@@ -109,6 +117,7 @@ Zorgen dat het team werkt volgens de Agile-principes en geen valkuilen van micro
 Prioritering van de backlog; dit is aan de Product Owner.
 Eindbeslissingen nemen over productfunctionaliteit of strategische richting.
 Gedetailleerde technische begeleiding of oplossingen bepalen.
+
 11. Business Analist
 - Verantwoordelijkheden:
 Analyseren van bedrijfsbehoeften en documenteren van vereisten op basis van de klantbehoeften.
@@ -119,6 +128,7 @@ Valideren en testen van functionaliteit om te zorgen dat deze voldoen aan de zak
 Het prioriteren van de backlog, dit ligt bij de Product Owner.
 Beslissingen over technische implementaties.
 Direct beheer van het team.
+
 12. Business Procesmodelleur
 - Verantwoordelijkheden:
 Visualiseren van bedrijfsprocessen en identificeren van verbeterpunten voor procesoptimalisatie.
